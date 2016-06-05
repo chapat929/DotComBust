@@ -12,3 +12,6 @@ bin/
 
 # Mac
 .DS_Store
+
+# Project Files
+out/
